@@ -60,9 +60,9 @@ Interactively explore regional trends in temperature, precipitation, cloud cover
 
 All data lives inside the `data/` folder as static JSON:
 data/
-├── TMP_1990-2024_central_high.json
-├── PRE_1990-2024_all.json
-├── himalaya_regions.geojson
+- TMP_1990-2024_central_high.json
+- PRE_1990-2024_all.json
+- himalaya_regions.geojson
 
 
 Each JSON file contains:
