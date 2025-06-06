@@ -1,7 +1,6 @@
-# HimClimX
-Dynamic Dashboard For Himalayan Climate Monitoring
-# 🏔️ Himalayan Climate Analytics Dashboard
 
+# 🏔️ Himalayan Climate Analytics Dashboard (HimClimX)
+Dynamic Dashboard For Himalayan Climate Monitoring
 <!--![Banner](./assets/banner.png) <!-- Replace with your banner image -->
 
 A futuristic, research-grade web dashboard for visualizing climate change across the **Himalayan region** from **1901 to 2024**, powered by real NetCDF datasets.  
